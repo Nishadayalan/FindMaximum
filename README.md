@@ -50,12 +50,17 @@ def max_marks(list1):
 
 ```
 ## Sample Input and Output
+
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
-
+# To find the maximum of marks using the list method sort.
 ![Alt text](sort.png)
+
+# To find the maximum marks using the list method max().
 ![Alt text](max.png)
+
+# To find the maximum marks without using builtin functions.
 ![Alt text](winbuilt.png)
 
 
