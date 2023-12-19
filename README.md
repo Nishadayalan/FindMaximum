@@ -57,17 +57,16 @@ def max_marks(list1):
 # To find the maximum of marks using the list method sort.
 ![maxsort](https://github.com/Nishadayalan/FindMaximum/assets/144870468/cb04df7a-0f08-4d57-8f13-723845736330)
 
-![Alt text](sort.png)
+
 
 # To find the maximum marks using the list method max().
 ![maxmax](https://github.com/Nishadayalan/FindMaximum/assets/144870468/46e86026-1b0d-4ff0-ada5-cca0044d5368)
 
-![Alt text](max.png)
+
 
 # To find the maximum marks without using builtin functions.
 ![maxinbuilt](https://github.com/Nishadayalan/FindMaximum/assets/144870468/4ee650d5-517d-43a9-8915-fcd88292ba23)
 
-![Alt text](winbuilt.png)
 
 
 ## Result:
